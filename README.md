@@ -4,7 +4,7 @@ This dashboard visualizes government spending data for Washington State agencies
 It captures spending distribution across agencies, service categories, and months, giving a clear view of financial priorities and trends.
 
 #  Key Highlights
-Total Spend: ₹1,71,29,18,647
+Total Spend: $ 1,71,29,18,647
 Total Agencies: 106
 Total Service Categories: 9
 
